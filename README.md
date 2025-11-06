@@ -21,7 +21,7 @@ class AhmedHashim:
         self.role = "Backend Developer"
         self.education = "BSc in AI, Menoufia University"
         self.location = "Cairo, Egypt"
-        self.interests = ["Python", "Django", "FastAPI", "Java", "Spring Boot"]
+        self.interests = ["Python", "Django", "FastAPI", "Java"]
         self.hobbies = ["Building APIs", "Learning new tech", "Contributing to GitHub"]
 
     def say_hi(self):
