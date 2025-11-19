@@ -21,7 +21,7 @@ class AhmedHashim:
         self.role = "Backend Developer"
         self.education = "BSc in AI, Menoufia University"
         self.location = "Cairo, Egypt"
-        self.interests = ["Python", "Django", "FastAPI", "Java"]
+        self.interests = ["Python", "Django", "FastAPI", "React"]
         self.hobbies = ["Building APIs", "Learning new tech", "Contributing to GitHub"]
 
     def say_hi(self):
@@ -33,7 +33,7 @@ class AhmedHashim:
 ## 🚀 Tech Stack  
 
 - 💻 **Languages**: Python, Java, JavaScript, SQL, HTML/CSS
-- 🔧 **Frameworks**: Django, FastAPI, Flask, DRF
+- 🔧 **Frameworks**: Django, FastAPI, Flask, DRF, React
 - 🧰 **Tools**: Docker, Celery, Redis, Git, Linux, Postman, Swagger, Pytest, n8n
 - 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
 - 🌐 **APIs**: REST, JWT Auth, OAuth2  
