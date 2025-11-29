@@ -22,7 +22,7 @@ class AhmedHashim:
         self.education = "BSc in AI, Menoufia University"
         self.location = "Cairo, Egypt"
         self.interests = ["Python", "Django", "FastAPI", "React"]
-        self.hobbies = ["Building APIs", "Learning new tech", "Contributing to GitHub"]
+        self.hobbies = ["Building APIs", "Learning new tech"]
 
     def say_hi(self):
         return f"Hi, I'm {self.name}, a passionate {self.role} from {self.location}!"
