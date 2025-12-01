@@ -73,13 +73,8 @@ class AhmedHashim:
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHashim04&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHashim04&theme=radical" height="160" />
-</p>  
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHashim04&hide_border=true&bg_color=ffffff&color=9580ff&title_color=ff6e96&line=ff6e96&point=9580ff">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHashim04&hide_border=true&bg_color=282a36&color=f8f8f2&title_color=ff6e96&line=ff6e96&point=79dafa" height="250" alt="Activity Graph"/>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=AhmeDev1425&hide_border=true&bg_color=ffffff&color=9580ff&title_color=ff6e96&line=ff6e96&point=9580ff">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmeDev1425&hide_border=true&bg_color=282a36&color=f8f8f2&title_color=ff6e96&line=ff6e96&point=79dafa" height="250" alt="Activity Graph"/>
   </a>
 </p>  
 
@@ -99,7 +94,7 @@ class AhmedHashim:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedhashim04"><img width="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://github.com/AhmedHashim04"><img width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://github.com/AhmeDev1425"><img width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
   <a href="https://wa.me/201558763958"><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" alt="WhatsApp"/></a>
   <a href="mailto:ahmedha4im7@gmail.com"><img width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail"/></a>
 </p>  
