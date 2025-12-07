@@ -33,7 +33,7 @@ class AhmedHashim:
 ## 🚀 Tech Stack  
 
 - 💻 **Languages**: Python, Java, JavaScript, SQL, HTML/CSS
-- 🔧 **Frameworks**: Django, FastAPI, Flask, DRF, React, NextJs
+- 🔧 **Frameworks**: Django, FastAPI, Flask, DRF, React
 - 🧰 **Tools**: Docker, Celery, Redis, Git, Linux, Postman, Swagger, Pytest, n8n
 - 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB  
 - 🌐 **APIs**: REST, JWT Auth, OAuth2  
